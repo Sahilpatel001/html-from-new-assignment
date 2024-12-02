@@ -1,0 +1,30 @@
+.p1
+        {
+            font-family:  "Montserrat", serif;
+           text-align: center;
+            font-size: 30px;
+            text-transform: lowercase;
+            
+        }
+
+        h1
+        {
+            font-size: 50px;
+            color:blue;
+            font-family: "Montserrat", serif;
+        }
+
+        .p2,.p3
+        {
+            font-family:"Montserrat", serif;
+            font-size: 30px;
+            text-align: center;
+            padding-top: 40px;
+        }
+
+        strong
+        {
+            color:#21f707 ;
+        }
+
+    
